@@ -56,3 +56,15 @@ With Restack, you can run PostHog on your own Kubernetes Cluster on AWS without 
 Get a fully managed PostHog instance in the cloud region of your choice, or within your own cloud.
 
 **Services:** PostHog as a managed service / Data locality
+
+<hr />
+
+<img src="/images/marketplace/kadeo.svg" alt="Kadeo" width="100" style={{float: 'right', marginTop: '1rem', marginLeft: '1rem'}} />
+
+#### [**Kadeo**](../marketplace/kadeo)
+
+Kadeo help solve wicked problems with awesome people. They help their clients break free of vendor lock-in and break down data silos liberating the data within.
+
+Once the data has been liberated they assist their clients in gaining insights that drive value in their business.
+
+**Services:** Analtics Advisory, Legacy System Integrations, Deployments for regulated environments (FinTech)
