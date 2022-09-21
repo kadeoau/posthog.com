@@ -20,11 +20,11 @@ We also have years of knowledge of regulated environments such as FinTech and ha
 
 ## Services offered
 
-- Analtics Advisory Services
-- Legacy System Instrumentation & Integration
+- Analtics advisory services
+- Legacy system instrumentation & integration
 - Breaking down data silos to creating a single of truth
-- PostHog Open Source deployment services
-- Local AWS Deployment Services for regulated environments
+- PostHog open Source deployment services
+- Local AWS deployment dervices for regulated environments
 
 
 ### Pricing

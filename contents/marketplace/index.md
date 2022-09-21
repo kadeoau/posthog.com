@@ -67,4 +67,4 @@ Kadeo help solve wicked problems with awesome people.
 
 They help their clients break free of vendor lock-in and break down data silos liberating the data within. Then assist their clients in gaining insights from their data that drive value in their business.
 
-**Services:** Analtics Advisory, Legacy System Integrations, Deployments for regulated environments (FinTech)
+**Services:** Analtics advisory, legacy system integrations, Deployments for regulated environments (FinTech)
